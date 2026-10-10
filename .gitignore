@@ -1,0 +1,18 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs e temporários
+*.log
+*.tmp
+node_modules/
+
+# Originais pesados de imagens (guarde só as versões otimizadas em assets/)
+originais/

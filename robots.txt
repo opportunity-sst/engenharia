@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Troque SEU-USUARIO pelo usuário do GitHub (ou pelo domínio final) antes de publicar.
+Sitemap: https://SEU-USUARIO.github.io/opportunity-engenharia-sst/sitemap.xml
